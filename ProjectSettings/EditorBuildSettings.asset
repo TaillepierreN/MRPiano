@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/passthrough.unity
     guid: a494ce45105836349a195a04b89e96e3
+  - enabled: 1
+    path: Assets/Scenes/MRPiano.unity
+    guid: ce070421dcec4f9409331f23b2ec3dcb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e96ba0ccb26883740b5a9591f9a443b3,
       type: 2}
